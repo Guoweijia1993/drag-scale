@@ -15,3 +15,5 @@
 自由缩放
 
 ![image](https://github.com/Guoweijia1993/drag-scale/blob/master/imgs/%E8%87%AA%E7%94%B1%E7%BC%A9%E6%94%BE.gif?raw=true)
+获取坐标、尺寸
+
